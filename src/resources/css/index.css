@@ -1,0 +1,15 @@
+li:hover {
+    border: 1px solid #dee2e6!important;
+    border-color: #dc3545!important;
+    background-color: #dc354514!important;
+}
+
+ul {
+    overflow: hidden;
+}
+
+li {
+    left: 0%;
+    -webkit-transition: left 1s;
+            transition: left 1s;
+}
